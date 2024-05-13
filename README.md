@@ -6,6 +6,9 @@
 - <b> Implementing a SOC and Honeynet in Azure </b>
   - [SOC-Honeynet](https://github.com/kalebpereira/SOC-Honeynet)
 
+- <b> Provisioning & Managing Vulnerabilities in Azure </b>
+  - [Vulnerability-Managment](https://github.com/kalebpereira/Vulnerability-Management)
+
 [linkedin]: https://linkedin.com/in/kalebpereira0/
 
 <!--
