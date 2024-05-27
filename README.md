@@ -6,10 +6,6 @@
 - <b> Implementing a SOC and Honeynet in Azure </b>
   - [SOC-Honeynet](https://github.com/kalebpereira/SOC-Honeynet)
 
-<h3>🔐 Cybersecurity:</h3>
-
-- [Network Topology Design Paper](https://docs.google.com/document/d/1PW9xnh_bmBU_anHghQAcXo3ud9Au5oNPg1I_pohtYS0/edit?usp=sharing)
-  
 <h2>🏅 Certfications:</h2>
 
   - [Google Cybersecurity Professional](https://coursera.org/share/f68416224ab91743078f8a11286c637c)
